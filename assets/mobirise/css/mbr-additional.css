@@ -1372,8 +1372,19 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qRBDQt76GQ {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-qRBDQt76GQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qRBDQt76GQ H2 {
+  color: #ffffff;
+}
 .cid-qRBg4L2RxW {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 135px;
   background-color: #232323;
 }
